@@ -1,8 +1,8 @@
 {
-  "name": "@vbestak/axios-refreshtoken",
+  "name": "axios-refresh",
   "version": "1.0.0",
   "description": "axios instance that refreshes token on 401 response and requeues failed requests",
-  "main": "dist/index.js",
+  "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
