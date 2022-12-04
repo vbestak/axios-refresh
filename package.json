@@ -1,6 +1,6 @@
 {
   "name": "axios-refresh",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "axios instance that refreshes token on 401 response and requeues failed requests",
   "main": "index.ts",
   "scripts": {
