@@ -16,6 +16,11 @@ Once the package is installed, you can import the library using `import` approac
 import getAxiosRefreshInstance from "axios-refresh"
 ```
 
+## Features
+
++ refreshes access token on server 401 Unauthorized response
++ queues failed requests and automatically repeats them on refresh token success
+
 ## Example
 
 > **Note** JS usage
